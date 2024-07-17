@@ -2,6 +2,9 @@
 FakeOculusMenu is a mod to prove your on quest and stop the cheating allegations
 you can enable the fake menu by clicking A and X on your quest controllers or if on steam just figure it out
 
+# Read Me
+i am not the owner of this mod i did not make it i just modified version of it with loader support if you are the owner of this mod dm me for removal and or credit for it
+
 # My discord
 https://discord.gg/D9fRUyt63T
 
