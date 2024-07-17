@@ -15,7 +15,7 @@ https://github.com/BzzzThe18th/MonkeModManager/releases/tag/2.0.3
 3. Go to steam right click on gorillatag
 4. Hover over manage and click browse local files
 5. GorillaTag > BepInEx > Plugins (if there is no plugins folder just make one)
-6. Place the SpeedManager.DLL into the plugins folder
+6. Place the FakeOculusMenu.DLL into the plugins folder
 
 # How To Inject
 1. install SharpMonoInjector https://github.com/wh0am15533/SharpMonoInjector
