@@ -22,6 +22,8 @@ https://github.com/BzzzThe18th/MonkeModManager/releases/tag/2.0.3
 2. Open smi_gui.exe
 3. copy these settings exactly into the GUI [image below]
 5. if gorilla tag doesnt show up close and reopen gorilla tag and then click refresh
+![image](https://github.com/user-attachments/assets/2db3557a-99eb-464a-a23c-5e29ea2cdc40)
+
 
 
 # LEGAL
